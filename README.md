@@ -52,8 +52,11 @@ tendencias a lo largo de 98 años de registros.
 ## 📂 Estructura del proyecto
 
 📁 analisis-sismologico-mexico/
+
 ├── 📓 Sismológico_nacional.ipynb   # Notebook principal
+
 ├── 📄 README.md                    # Este archivo
+
 └── 📁 data/                        # Dataset del SSN 
 
 ---
