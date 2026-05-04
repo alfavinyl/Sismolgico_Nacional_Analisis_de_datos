@@ -57,7 +57,7 @@ tendencias a lo largo de 98 años de registros.
 
 ├── 📄 README.md                    # Este archivo
 
-└── 📁 data/                        # Dataset del SSN 
+
 
 ---
 
