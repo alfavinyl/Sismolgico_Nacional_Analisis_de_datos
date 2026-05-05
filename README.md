@@ -69,6 +69,30 @@ tendencias a lo largo de 98 años de registros.
 - Solo **52 sismos** en 100 años han superado magnitud 7.
 
 ---
+## Propuestas basadas en el análisis
+
+**1. Reforzar los sistemas de alerta temprana en las zonas de mayor concentración sísmica**
+El 85.6% de los sismos registrados entre 1925 y 2023 se concentra en Guerrero, Oaxaca 
+y Chiapas. Esta concentración sugiere que los recursos de monitoreo, alerta temprana 
+y respuesta de emergencia deberían priorizarse en estas entidades, garantizando que 
+su infraestructura de protección civil esté a la altura del riesgo real que enfrentan.
+
+**2. Revisar los códigos de construcción en regiones de sismicidad superficial**
+El 75.81% de los sismos ocurre a menos de 40 km de profundidad. Los sismos 
+superficiales liberan su energía más cerca de la superficie, lo que los hace 
+potencialmente más destructivos. Esto representa un argumento sólido para revisar 
+y actualizar los estándares de construcción en las zonas de mayor actividad, 
+especialmente en zonas urbanas de Guerrero, Oaxaca y Chiapas.
+
+**3. Comunicar el aumento en el registro sísmico de forma transparente a la población**
+A partir de 2015 se observa un incremento significativo en el número de sismos 
+registrados. Es importante que instituciones como el SSN comuniquen claramente 
+que este aumento refleja en parte mejoras en la capacidad de detección tecnológica, 
+y no necesariamente un incremento real en la actividad sísmica. Una comunicación 
+transparente evita el pánico innecesario y fortalece la confianza pública en las 
+instituciones científicas.
+---
+
 
 ## 🚀 Siguientes pasos
 
