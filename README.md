@@ -32,7 +32,7 @@ tendencias a lo largo de 98 años de registros.
 
 ## 🔍 Preguntas de análisis
 
-1. ¿Cómo ha evolucionado la actividad sísmica en México en 100 años?
+1. ¿Cómo ha evolucionado la actividad sísmica en México en 98 años?
 2. ¿Qué zonas del país concentran los sismos más peligrosos?
 3. ¿Existe relación entre la profundidad y la magnitud de un sismo?
 4. ¿En qué épocas del año se registra mayor actividad sísmica?
@@ -84,14 +84,14 @@ potencialmente más destructivos. Esto representa un argumento sólido para revi
 y actualizar los estándares de construcción en las zonas de mayor actividad, 
 especialmente en zonas urbanas de Guerrero, Oaxaca y Chiapas.
 
-**3. Comunicar el aumento en el registro sísmico de forma transparente a la población**
+**3. Comunicar el aumento en el registro sísmico de forma transparente a la población** 
 A partir de 2015 se observa un incremento significativo en el número de sismos 
 registrados. Es importante que instituciones como el SSN comuniquen claramente 
 que este aumento refleja en parte mejoras en la capacidad de detección tecnológica, 
 y no necesariamente un incremento real en la actividad sísmica. Una comunicación 
 transparente evita el pánico innecesario y fortalece la confianza pública en las 
 instituciones científicas.
----
+
 
 
 ## 🚀 Siguientes pasos
