@@ -1,7 +1,7 @@
 # 🌎 Análisis Sísmico de México — Servicio Sismológico Nacional (1925–2023)
 
-> 98 años de sismos en México: ¿qué nos dicen los datos?
-> Este proyecto analiza 98 años de registros sísmicos para responder esa pregunta con datos.
+> * 98 años de sismos en México: ¿qué nos dicen los datos?
+> * Este proyecto analiza 98 años de registros sísmicos para responder esa pregunta con datos.
 
 ---
 
