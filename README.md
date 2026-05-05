@@ -53,11 +53,11 @@ tendencias a lo largo de 98 años de registros.
 
 📁 analisis-sismologico-mexico/
 
+├── 📂 DATA.md                      #Aquí se encuentra el dataset
+
 ├── 📓 Sismológico_nacional.ipynb   # Notebook principal
 
 ├── 📄 README.md                    # Este archivo
-
-
 
 ---
 
